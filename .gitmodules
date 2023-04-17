@@ -1,0 +1,24 @@
+[submodule "Calencli"]
+	path = Calencli
+	url = https://github.com/AnthonyKcrs/Codeable.git
+[submodule "Somesplash"]
+	path = Somesplash
+	url = https://github.com/codeableorg/somesplash-c8-team4-week10.git
+[submodule "CliviaGenerator"]
+	path = CliviaGenerator
+	url = https://github.com/codeableorg/clivia-generator-AnthonyKcrs.git
+[submodule "ClinBoards"]
+	path = ClinBoards
+	url = https://github.com/codeableorg/ruby-clin-boards-c8-week03-team1.git
+[submodule "PokemonRuby"]
+	path = PokemonRuby
+	url = https://github.com/codeableorg/pokemon-ruby-c8-week02-team2.git
+[submodule "Calencl1"]
+	path = Calencl1
+	url = https://github.com/codeableorg/ruby-calencli-c8-week1-team1.git
+[submodule "Keepable"]
+	path = Keepable
+	url = https://github.com/codeableorg/keepable-js-c8-week14-team02.git
+[submodule "Critics"]
+	path = Critics
+	url = https://github.com/codeableorg/critics-release-candidate-c8-week11-team1.git
